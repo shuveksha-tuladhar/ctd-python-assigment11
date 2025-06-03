@@ -14,7 +14,6 @@ JOIN products p ON l.product_id = p.product_id
 GROUP BY e.employee_id;
 """
 
-employee_results = pd.read_sql_query(query, conn)      
 df = pd.read_sql_query(query, conn)
 conn.close()
 
