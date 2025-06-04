@@ -1,1 +1,3 @@
 https://ctd-python-assigment11.onrender.com
+
+https://assignment11-titanic-dashboard.streamlit.app/
